@@ -1,0 +1,15 @@
+*{
+ box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   }
+
+#logo {
+    width: 300px;
+ }
+.enlace-lineal {
+    display: inline-block;
+}
+* {
+    font-size: 30px;
+}
